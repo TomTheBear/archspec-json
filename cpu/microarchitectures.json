@@ -1460,7 +1460,7 @@
           "clang" : [
               {
                   "versions": "3.9:4.9",
-                  "flags": "-march=armv8.2-a+fp16+crc+crypto"
+                  "flags" : "-march=armv8.2-a+fp16+crc+crypto"
               },
               {
                   "versions": "5:",
